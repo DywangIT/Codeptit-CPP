@@ -1,0 +1,1 @@
+{"name":"Local: 0main","url":"c:\\LAP_TRINH\\CODEPTIT_C++\\0main.cpp","tests":[{"id":1710515145899,"input":"2  2  3","output":"2"},{"id":1710515531887,"input":"123 5  2","output":"123"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LAP_TRINH\\CODEPTIT_C++\\0main.cpp","group":"local","local":true}

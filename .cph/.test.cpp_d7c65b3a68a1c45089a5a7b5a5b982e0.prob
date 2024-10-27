@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"d:\\LAP_TRINH\\CODEPTIT_C++\\test.cpp","tests":[{"id":1715572420914,"input":"3\n\n1 9\n\n10 456\n\n123 2437","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\LAP_TRINH\\CODEPTIT_C++\\test.cpp","group":"local","local":true}
