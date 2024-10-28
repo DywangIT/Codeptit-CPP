@@ -1,1 +1,1 @@
-{"name":"Local: 0main","url":"d:\\Programing\\Codeptit_C++\\0main.cpp","tests":[{"id":1730028898230,"input":"3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programing\\Codeptit_C++\\0main.cpp","group":"local","local":true}
+{"name":"Local: 0main","url":"d:\\Programing\\Codeptit_C++\\0main.cpp","tests":[{"id":1730028898230,"input":"2\n1 5\nX O X O X \n3 3\nX X X\nX O X\nX X X","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programing\\Codeptit_C++\\0main.cpp","group":"local","local":true}
